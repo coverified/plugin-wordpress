@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       CoVerified
- * Plugin URI:        https://coverified-website.netlify.com/
+ * Plugin URI:        https://www.coverified.info/
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
  * Author:            Florian Schlittenbauer
