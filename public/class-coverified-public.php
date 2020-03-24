@@ -97,7 +97,7 @@ class Coverified_Public {
 		 */
 
 //		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/coverified-public.js', array( 'jquery' ), $this->version, false );
-		wp_enqueue_script( 'https://webcomponent.coverified.info/build/embed.js', false, $this->version, true );
+		wp_enqueue_script( 'coverified','https://webcomponent.coverified.info/build/embed.js', false, $this->version, true );
 
 	}
 
